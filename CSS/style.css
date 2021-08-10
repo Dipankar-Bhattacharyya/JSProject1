@@ -1,0 +1,21 @@
+body {
+    background-color: red;
+  }
+  
+  h2 {
+    color: white;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+
+  #myH2{
+      font-size: 60px;
+  }
+
+  .yellow-text{
+      color: yellow;
+  }
